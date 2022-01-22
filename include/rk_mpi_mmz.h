@@ -18,8 +18,6 @@
 #ifndef __RK_MPI_MMZ_H__
 #define __RK_MPI_MMZ_H__
 
-#include <drm/drm.h>
-#include <drm/drm_fourcc.h>
 #include <stdint.h>
 #include <stdio.h>
 
